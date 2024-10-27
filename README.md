@@ -7,6 +7,6 @@ Go to the AWS The board Control center, click Administrations then, at that poin
 
 You can run AWS CLI orders in here very much like you would on your nearby PC. Check that your client is signed in by running aws sts get-guest character.
 
-***
+```
 aws sts get-caller-identity
-***
+```
