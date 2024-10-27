@@ -1,6 +1,6 @@
-Module 1: Static Web Hosting with AWS Amplify Console In this module you'll configure AWS Amplify Console to host the static resources for your web application. In subsequent modules you'll add dynamic functionality to these pages using JavaScript to call remote RESTful APIs built with AWS Lambda and Amazon API Gateway.
+**Module 1**: Static Web Hosting with AWS Amplify Console In this module you'll configure AWS Amplify Console to host the static resources for your web application. In subsequent modules you'll add dynamic functionality to these pages using JavaScript to call remote RESTful APIs built with AWS Lambda and Amazon API Gateway.
 
-Architecture Overview
+**Architecture Overview**
 ![image](https://github.com/user-attachments/assets/14d3b4ae-61c7-4fbb-9c31-0ec2c47f4cfc)
 You'll see yield showing your record and client data: Guarantee you've finished the arrangement guide prior to starting the studio.
 
