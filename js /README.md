@@ -25,6 +25,7 @@ Open the AWS CodeCommit console Select Make Archive Set the Archive name* to "wi
 From a terminal window run git clone and the HTTPS URL of the respository: ec2-user:/climate $ git clone https://git-codecommit.us-east-1.amazonaws.com/v1/repos/wildrydes-site Cloning into 'wildrydes-site'... caution: You seem to have cloned an unfilled vault. ec2-user:/climate $ Extra Github Step (This step is possibly required on the off chance that you're utilizing Github rather than Codecommit) ✅ Bit by bit headings
 
 Adhere to the directions on GitHub to Make a storehouse. NOTE: You shouldn't make a first commit, simply make the store. Clone the vault locally utilizing your GitHub qualifications On the off chance that you don't have credentially locally, or need to involve Cloud9 for the present lab, follow these moves toward Creating another SSH key and adding it to the ssh-specialist Clone the archive Populate the git archive When your git archive is made and cloned locally, you'll have to pull in the records for your site and sync them up to the vault.
+
 ✅ Bit by bit bearings From your Cloud9 advancement environment(or nearby climate)
 ```
 $ git add .
